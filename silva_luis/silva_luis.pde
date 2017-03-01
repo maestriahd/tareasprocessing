@@ -3,6 +3,13 @@ La Universidad está adelantando una campaña para dar a conocer el
 Protocolo de casos de maltrato, acoso, amenaza, matoneo y afines. Para esto,
 recogimos información por medio de una encuesta a toda la comunidad uniandina.
 Me gustaría crear una visualización que permitiera ver la variedad de respuestas encontradas.
+
+
+Comentarios sobre el resultado:
+1. No es clara la forma en que el usuario interactua con el programa (la acción de hacer clic)
+2. Quisiera lograr que las frases no se sobrepasen del límite del canvas
+3. A veces es torpe el clic y no sucede nada
+
 */
 
 //Aquí declaro la variable para fuente 
